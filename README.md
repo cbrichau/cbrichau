@@ -2,10 +2,6 @@
 
 <p align="center"><a href="https://www.linkedin.com/in/cliobrichaut/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></p>
 
-I love coding.
-  
-I started in my teens but graduated with an MBA and worked 5 years in SEO before going back to what I love and retraining as a professional programmer a few years ago. I'm now employed as a Backend Engineer in Brussels, Belgium, while continuously building side projects.
-
 <table>
   <tr>
     <th>I mostly work with:</th>
